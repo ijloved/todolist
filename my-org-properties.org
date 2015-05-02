@@ -1,0 +1,15 @@
+ :PROPERTIES:
+ :CATEGORY:
+ :SITE:
+ :STATUS:
+ :NAME:
+ :FROM:     
+ :TO:
+ :EFFORT:
+ :WORKWITH: 
+ :WITH:     
+ :AT:       
+ :TYPE:
+ :KEYWORD:
+ :CONTENT:
+ :END:      

@@ -1,0 +1,11 @@
+#+STARTUP: showall indent
+#+FILETAGS: 
+#+TAGS: 가동원전 건설원전 기타핵주기
+#+TAGS: 고리 월성 울진 영광 기장연구로 하나로 KNFC3공장
+#+TAGS: 신한울12 신고리34 신월성2
+#+TAGS: 심사 검사
+#+TAGS: 건설허가심사 운영허가심사 경미한사항변경허가심사
+#+TAGS: 정기검사 사용전검사 
+#+TAGS: 실관련 
+#+TAGS: 예산 BS 회식 
+

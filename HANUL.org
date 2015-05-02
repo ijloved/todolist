@@ -1,0 +1,93 @@
+#+STARTUP: showall indent
+#+FILETAGS: 울진
+#+TAGS: 가동원전 건설원전 기타핵주기
+#+TAGS: 고리 월성 울진 영광 기장연구로 하나로 KNFC3공장
+#+TAGS: 신한울12 신고리34 신월성2
+#+TAGS: 심사 검사
+* ORG-MODE SET-UP
+#+STARTUP: showall indent hideblocks
+#+FILETAGS: 
+#+DRAWERS: HIDDEN STATE
+#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+
+
+
+* 신한울12호기 관련                                              :건설원전:신한울12:
+:PROPERTIES: 
+:SITE:     울진
+:STATUS:   건설원전
+:NAME:     신한울12
+:FROM:     
+:TO:       
+:WITH:     윤의식
+:AT:       
+:WORKWITH: 
+:TYPE:     
+:CONTENT:  
+:END:      
+
+** DONE [#A] [3/3] 9차 사용전검사 보고서 및 수행실적 작성          :사용전검사보고서:
+CLOSED: [2015-04-22 수 11:30] DEADLINE: <2015-04-20 월>
+   - [X] [[E:\WorkShop\2015\150406)%20%EC%8B%A0%ED%95%9C%EC%9A%B8%2012%20%EC%82%AC%EC%9A%A9%EC%A0%84%EA%B2%80%EC%82%AC\150419%20%EA%B2%80%EC%82%AC%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EB%B0%8F%20%EC%88%98%ED%96%89%EA%B8%B0%EB%A1%9D][검사보고서 및 수행기록 송부]] 
+     CLOSED: [2015-04-19 일]
+   - [X] 윤의식 그룹장 검토의견 회신 대기 + 황진욱 박사 해당분 검토 필요
+   - [X] 윤의식 그룹장 검토의견 반영 (사용전검사 용어 수정, 조건부 승인 FCR 검사부분 보완 등)
+     
+     
+   
+** DONE [#C] [4/4] 신한울 1,2호기 사용전검사 검사권고사항  :건설원전:신한울12:사용전검사:
+CLOSED: [2015-04-24 금 13:30] SCHEDULED: <2015-04-24 금>
+   - CLOSING NOTE [2015-04-24 금 13:30] \\
+     서명해서 PM에게 전달.
+   - State "TODO"       from "WAITING"    [2015-04-23 목 11:05]
+   - State "WAITING"    from "NEXT"       [2015-04-20 월 11:31] \\
+     전문위원 검토중
+   - [X] 검사 지적사항 송부(실장님에게 설명하고 PM님에게 원본 전달 / 사본은 별도 관리)
+     CLOSED: [2015-04-18 토 19:34]
+   - [X] 전문위원 검토의견 회신 대기
+   - [X] [[E:\WorkShop\2015\150406)%20%EC%8B%A0%ED%95%9C%EC%9A%B8%2012%20%EC%82%AC%EC%9A%A9%EC%A0%84%EA%B2%80%EC%82%AC\150423%20%20%EC%A0%84%EB%AC%B8%EC%9C%84%EC%9B%90%20%EA%B6%8C%EA%B3%A0%EC%82%AC%ED%95%AD%20%EA%B2%80%ED%86%A0%EC%9D%98%EA%B2%AC][전문위원 검토의견 반영]] 및 [[<<SH12권고>>][그룹장 보고]]
+     
+     
+   
+** NEXT [#A] [3/5] 앵커 볼트의 제작 방법                              :사용전검사:
+SCHEDULED: <2015-05-04 월>
+- State "NEXT"       from "WAITING"    [2015-05-02 토 13:22]
+:PROPERTIES: 
+:WITH:     김문수 
+:TYPE:     사용전검사
+:CONTENT:  앵커볼트제작
+:END:      
+- State "WAITING"    from "NEXT"       [2015-04-20 월 11:30] \\
+  현성수 차장에게 자료 요청 완료.(전화 - > 창고 내의 사진 대지) 
+- [X] 신한울12 건축팀 현성수 차장이랑 통화하여 해당 볼트의 보관상태 사진을 요청함.[보관/시공은
+  완성된 상태로 수행한다고 함]  
+- [X] 현성수 차장이 사진을 보내 줄 예정
+- [X] 이세현 박사에게 추가적으로 작업공정별 사진 요청(보완요청함 via E-mail) -> 전화로 추가
+- [ ] 회신 받은 후 실장님 및 그룹장에게 보고 필요
+
+     
+     
+** DONE [#A] [[E:\WorkShop\2015\150110) 신한울 12 서류적합성검토][신한울12호기 서류적합성 검토]]                          :서류적합성검토:
+CLOSED: [2015-04-21 화 09:10] SCHEDULED: <2015-04-22 수>
+    - CLOSING NOTE [2015-04-21 화 09:10] \\
+      비산물 방호 관련 완료.
+      
+      
+    
+* 한울56호기 관련                                           
+:PROPERTIES: 
+:SITE:     울진
+:STATUS:   가동원전
+:WITH:     이계현
+:FROM:     [2015-04-27 월]
+:END:      
+
+** DONE [#A] PSR 심사 사업자 설명회 의뢰 (4월27일 오후3시)
+CLOSED: [2015-04-28 화 10:36] SCHEDULED: <2015-04-27 월>
+:PROPERTIES: 
+:WITH:     이계현 최호선 어근선 사업자
+:AT:       세미나2실
+:TYPE:     PSR 심사
+:END:      
+

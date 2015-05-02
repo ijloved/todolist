@@ -1,0 +1,55 @@
+* ORG-MODE SET-UP
+#+STARTUP: showall indent hideblocks
+#+FILETAGS: 
+#+DRAWERS: HIDDEN STATE
+#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+
+
+* 예산 관련                                               
+:PROPERTIES:
+:CATEGORY: DEPT BUDGET
+:END:
+
+** DONE [#A] [2/2] 실예산 보고                                          :보고:
+   CLOSED: [2015-04-20 월 10:18] DEADLINE: <2015-04-20 월>
+   - [X] 신입직원 필요 예산 금액 보고완료 (노트북 3대 570만원, 테블릿 3대 300만원)
+   - [X] 황진욱 박사 예산처리 - NSIC 관련 : 사유서(실장->부원장->원장 결제) vs 실계정처리
+     + 홍보팀에서 대신 결제해서 진행 예정임.
+     + 황진욱 박사가 회의비 + 중장기과제로 처리함.
+
+** WAITING [#B] [[E:\WorkShop\2015\150417) 프로그램 구매(SAP 및 ADOBE)][프로그램 구매]]                                  :프로그램:WAITING:
+   DEADLINE: <2015-05-11 월>
+   - State "WAITING"    from "TODO"       [2015-04-20 월 16:37] \\
+     정보관리팀에서 내부적으로 처리방안을 구성중이며 추후 공지(마이다스 및 이메일 등) 예정임
+   - ADOBE : 임창복, 심택모, 박선정, 하성국, 이영근
+   - SAP : 지호석 
+
+** DONE [#B] 학회 가입신청                                               :학회:
+   CLOSED: [2015-04-22 수 20:06]
+   - CLOSING NOTE [2015-04-22 수 20:06] \\
+     해외학회 제외
+   - 이영근, 권기연
+
+** TODO [#B] 해외학회 가입신청                                        :해외학회:
+SCHEDULED: <2015-05-31 일>
+
+** TODO [#B] 구조내진 분야 BS
+   SCHEDULED: <2015-05-04 월>
+
+** [#C] 노명현 박사님 계정 재료비 집행 - 담당자 오세원           :노명현:예산:재료비:
+   DEADLINE: <2015-05-31 일>
+*** DONE 세원씨 집행 실적 확인할 것
+    CLOSED: [2015-04-23 목 22:30] SCHEDULED: <2015-05-15 금>
+    - CLOSING NOTE [2015-04-23 목 22:30] \\
+      1000원 남기고 모두 집행
+    - 비목 :: 재료비-컬러프린터 토너
+    - 잔액 :: 1,421,000원
+    - 계정 :: T3RE14112(외부재해~, 노명혀)
+
+
+** CANCELLED [#A] 구조분야 신입직원 교육                      :CANCELLED:교육:
+   CLOSED: [2015-04-21 화 10:01] SCHEDULED: <2015-05-11 월>
+   - State "CANCELLED"  from "HOLD"       [2015-04-21 화 10:01]
+   - State "HOLD"       from "TODO"       [2015-04-20 월 18:03] \\
+     신월성1호기 정기검사 출장으로 참석 어려움.
