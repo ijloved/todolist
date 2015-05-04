@@ -1,0 +1,52 @@
+
+Archived entries from file c:/msys64/home/WhiteBear/AGENDA/WOLSONG.org
+
+
+* From WOLSONG.org
+
+** DONE [1/1] [[E:\WorkShop\2015\150503  신월성1호기 정기검사\1 검사준비][요청자료 작성]]
+CLOSED: [2015-05-04 월 13:06]
+- State "DONE"       from "WAITING"    [2015-05-04 월 13:06]
+- State "WAITING"    from "TODO"       [2015-05-03 일 18:11] \\
+  정래영 박사님에게 검토요구
+- [X]  [[file:DIARY.org::*%EC%9D%8D%EC%B2%9C%EA%B0%90%EC%8B%9C%EA%B4%80%EB%A0%A8%20%EC%B5%9C%ED%98%B8%EC%84%A0%20%EB%B0%95%EC%82%AC%EA%B0%80%20%EC%9E%91%EC%84%B1%ED%95%9C%20%EB%82%B4%EC%9A%A9%20%ED%8F%AC%ED%95%A8%20%5B%5Bfile:WOLSONG.org::*%2520%255B%255BE:/WorkShop/2015/150503%2520%25EC%258B%25A0%25EC%259B%2594%25EC%2584%25B11%25ED%2598%25B8%25EA%25B8%25B0%2520%25EC%25A0%2595%25EA%25B8%25B0%25EA%25B2%2580%25EC%2582%25AC/1%2520%25EA%25B2%2580%25EC%2582%25AC%25EC%25A4%2580%25EB%25B9%2584%255D%255B%25EC%259A%2594%25EC%25B2%25AD%25EC%259E%2590%25EB%25A3%258C%2520%25EC%259E%2591%25EC%2584%25B1%255D%255D%5D%5B{1/1}%20%EC%9A%94%EC%B2%AD%EC%9E%90%EB%A3%8C%20%EC%9E%91%EC%84%B1%5D%5D][읍천감시관련 최호선 박사가 작성한 내용 포함 {1/1} 요청자료 작성]]
+
+# ** TODO [/] 지진감시계통
+:PROPERTIES:
+:TARGET:   지진감시계통
+:ARCHIVE_TIME: 2015-05-04 월 16:34
+:ARCHIVE_FILE: ~/AGENDA/WOLSONG.org
+:ARCHIVE_OLPATH: 신월성1호기 관련
+:ARCHIVE_CATEGORY: 신월성1
+:ARCHIVE_TODO: DONE
+:END:      
+
+
+# ** TODO [/] 격납건물 가동중 검사
+:PROPERTIES:
+:TARGET:   가동중검사
+:END:
+
+# ** TODO [/] 구조물검사
+:PROPERTIES:
+:TARGET:   구조물검사
+:END:
+
+# ** TODO [/] 안전관련 설비 지진취약성
+:PROPERTIES:
+:TARGET:   지진취약성
+:END:
+
+# ** COMMENT TODO [/] 안전관련 보호도장
+:PROPERTIES:
+:TARGET:   보호도장
+:END:
+
+      
+      
+    
+    
+    
+    
+    
+    

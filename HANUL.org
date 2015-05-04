@@ -1,9 +1,3 @@
-#+STARTUP: showall indent
-#+FILETAGS: 울진
-#+TAGS: 가동원전 건설원전 기타핵주기
-#+TAGS: 고리 월성 울진 영광 기장연구로 하나로 KNFC3공장
-#+TAGS: 신한울12 신고리34 신월성2
-#+TAGS: 심사 검사
 * ORG-MODE SET-UP
 #+STARTUP: showall indent hideblocks
 #+FILETAGS: 
@@ -50,8 +44,10 @@ CLOSED: [2015-04-24 금 13:30] SCHEDULED: <2015-04-24 금>
      
      
    
-** NEXT [#A] [3/5] 앵커 볼트의 제작 방법                              :사용전검사:
+** WAITING [#A] [3/5] 앵커 볼트의 제작 방법                  :사용전검사:WAITING:
 SCHEDULED: <2015-05-04 월>
+- State "WAITING"    from "NEXT"       [2015-05-04 월 08:36] \\
+  최병구 대리에게 질문사항 전달. - 앵커볼트 길이등
 - State "NEXT"       from "WAITING"    [2015-05-02 토 13:22]
 :PROPERTIES: 
 :WITH:     김문수 
@@ -65,9 +61,9 @@ SCHEDULED: <2015-05-04 월>
 - [X] 현성수 차장이 사진을 보내 줄 예정
 - [X] 이세현 박사에게 추가적으로 작업공정별 사진 요청(보완요청함 via E-mail) -> 전화로 추가
 - [ ] 회신 받은 후 실장님 및 그룹장에게 보고 필요
+  
+  
 
-     
-     
 ** DONE [#A] [[E:\WorkShop\2015\150110) 신한울 12 서류적합성검토][신한울12호기 서류적합성 검토]]                          :서류적합성검토:
 CLOSED: [2015-04-21 화 09:10] SCHEDULED: <2015-04-22 수>
     - CLOSING NOTE [2015-04-21 화 09:10] \\
@@ -91,3 +87,19 @@ CLOSED: [2015-04-28 화 10:36] SCHEDULED: <2015-04-27 월>
 :TYPE:     PSR 심사
 :END:      
 
+
+
+* TODO [[E:\WorkShop\2015\잡일\150504 신한울12 포텐 앵커두부붙이 및 웻지 경도 후속조치][신한울12 포스트텐셔닝계통 앵커두부붙이 및 웻지 경도 관련 후속조치]] :포스트텐셔닝계통:
+:PROPERTIES: 
+:CATEGORY: 신한울12
+:KEYWORD:  사용전검사 포스트텐셔닝계통 RG1.136 경도
+:WORKWITH: [[bbdb:이희택]]
+:WITH: [[bbdb:손성훈]]
+:ELAPSED_TIME: <2015-05-04 월>--<2015-05-31 일>
+:END:      
+
+** [/] 메일요청 사항
+- [ ] 경도관련 NRC 원본 문서
+- [ ] 앵커헤드어셈블리 브리넬 경도 설정이유 :: Rockwell C 20 이하일때 Brinell 경도를
+     만족시킨다는 보장이 있는지?
+- [ ] 저온에서 연성을 확보한다는 보장이 있는지?
