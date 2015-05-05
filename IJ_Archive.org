@@ -50,3 +50,119 @@ CLOSED: [2015-05-04 월 13:06]
     
     
     
+
+* From PERSONAL.org
+
+** DONE [#B] [[E:\WorkShop\2015\150213 기본연구과제 김상윤 미국 CROP][제주도 학회 준비(PPT)]]                                    :원자력학회:
+CLOSED: [2015-05-05 화 15:06] DEADLINE: <2015-05-06 수>
+- CLOSING NOTE [2015-05-05 화 15:06] \\
+  5월8일 발표 예정. 발표자료 초안 작성완료
+:PROPERTIES: 
+:CATEGORY: 
+:SITE:     
+:STATUS:   
+:NAME:     A Study of Construction Reactor Oversight Process in the US
+:FROM:     
+:TO:       
+:EFFORT:   
+:WORKWITH: 김상윤 정구영 김선필
+:WITH:     
+:AT:       제주도
+:TYPE:     연구 학회
+:KEYWORD:  
+:CONTENT:  
+:ARCHIVE_TIME: 2015-05-05 화 15:06
+:ARCHIVE_FILE: ~/AGENDA/PERSONAL.org
+:ARCHIVE_TODO: DONE
+:END:      
+*** DONE 질의 사항. Reactive Inspection과 Supplemental Inspection의 정의.
+CLOSED: [2015-05-03 일 09:28] SCHEDULED: <2015-05-04 월>
+- CLOSING NOTE [2015-05-03 일 09:28]
+
+** MEETING [#B] 근로자의 날 저녁 약속                                  :개인일정:
+:PROPERTIES: 
+:CATEGORY: 동기모임
+:with: 김아름
+:at: 궁동연취
+:on: <2015-04-30 목 19:30>
+:ARCHIVE_TIME: 2015-05-05 화 15:06
+:ARCHIVE_FILE: ~/AGENDA/PERSONAL.org
+:ARCHIVE_CATEGORY: 동기모임
+:ARCHIVE_TODO: MEETING
+:END:
+
+** DONE [#B] 강성균이랑 저녁식사                               :개인일정:ARCHIVE:
+:PROPERTIES:
+:CATEGORY: 대학동창모임
+:with: 강성균
+:at: 둔산동
+:on: <2015-04-28 화 19:30>
+:ARCHIVE_TIME: 2015-05-05 화 15:06
+:ARCHIVE_FILE: ~/AGENDA/PERSONAL.org
+:ARCHIVE_CATEGORY: 대학동창모임
+:ARCHIVE_TODO: DONE
+:END:      
+아띠가서 내가 삼. 보물섬 + 고기볶음
+
+** DONE [#A] 예비군 훈련                                            :ARCHIVE:
+   CLOSED: [2015-04-21 화 10:00] SCHEDULED: <2015-04-21 화> 오후 13시 까지 유성구 예비군 훈련장.
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2015-05-05 화 15:06
+   :ARCHIVE_FILE: ~/AGENDA/PERSONAL.org
+   :ARCHIVE_CATEGORY: PERSONAL
+   :ARCHIVE_TODO: DONE
+   :END:
+
+** DONE 2012 콘크리트 구조설계기준 배포 
+CLOSED: [2015-04-28 화 16:46]
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2015-05-05 화 15:06
+   :ARCHIVE_FILE: ~/AGENDA/PERSONAL.org
+   :ARCHIVE_CATEGORY: PERSONAL
+   :ARCHIVE_TODO: DONE
+   :END:
+- CLOSING NOTE [2015-04-28 화 16:46] \\
+  이메일로 PDF송부 및 하드카피본 공용폴더 캐비넷에 배치
+
+** [#A] 보고 사항                                                        :보고:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2015-05-05 화 15:07
+   :ARCHIVE_FILE: ~/AGENDA/PERSONAL.org
+   :ARCHIVE_CATEGORY: PERSONAL
+   :END:
+
+*** 실장님에게 보고                                                      :실장:
+**** DONE 신월성12 간이정비 검사계획서 작성관련
+CLOSED: [2015-04-23 목 09:53] DEADLINE: <2015-04-23 목>
+    - CLOSING NOTE [2015-04-23 목 09:53] \\
+      협조전으로 구조부지실 해당내용 없음이라고 송부할 것.
+    - 구조부지실 검사 항목 해당 사항없음
+      + VCT 내진성능 보강 내용 중 앵커부분만 우리 것.
+**** DONE 신월성12 사용후연료방출구 볼밸브 운영허가 변경사항
+CLOSED: [2015-04-23 목 09:53] DEADLINE: <2015-04-23 목>
+    - CLOSING NOTE [2015-04-23 목 09:53] \\
+      관련 해서 비안전등급이어도 앵커등을 검토 할 것
+    - 관련 설계 변경 내용이 비안전등급일 경우 검토 범위
+      
+*** 선임에게 보고                                                        :선임:
+**** 윤의식 그룹장                                                      :윤의식:
+***** DONE 신한울12 9차 사용전검사 보고서 재작성
+CLOSED: [2015-04-26 일 17:17]
+- CLOSING NOTE [2015-04-26 일 17:17] \\
+  이메일로 수정본 송부
+***** DONE [[file:HANUL.org::SH12%EA%B6%8C%EA%B3%A0][신한울12 9차 사용전검사 권고사항 재작성]]
+CLOSED: [2015-04-24 금 14:05]
+     - CLOSING NOTE [2015-04-24 금 14:05] \\
+       E-mail 보고 후 PM에게 설명후 전달.
+       
+**** 정래영 박사                                                        :정래영:
+***** DONE [3/3] [[file:WOLSONG.org::VCT][월성관련보고사항 via E-mail]]
+CLOSED: [2015-04-27 월 21:29]
+- CLOSING NOTE [2015-04-27 월 21:29] \\
+  정래영 박사님 귀국후 보고완료
+     - [X] VCT 관련
+     - [X] [[file:WOLSONG.org::W1임계전보고서][월성1호기 정기검사 - 임계전보고서 송부]]
+     - [X] LTP 및 가동전검사 관련
+       
+       
+
