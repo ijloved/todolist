@@ -149,6 +149,9 @@ DEADLINE: <2015-05-12 화>
 - [X] 최종보고서 기술 내용 
 - [X] 답변 독촉 [[file:DIARY.org::*%EC%9C%A0%EC%84%A0%EC%83%81%EC%9C%BC%EB%A1%9C%20%EB%A9%94%EC%9D%BC%EA%B4%80%EB%A0%A8%20%EC%9A%94%EC%B2%AD%EC%82%AC%ED%95%AD%20%EB%8F%85%EC%B4%89%20%5B%5Bfile:WOLSONG.org::*%2520%255B%255BE:/WorkShop/2015/150421%252520%2525EC%25258B%2525A0%2525EC%25259B%252594%2525EC%252584%2525B12%2525ED%252598%2525B8%2525EA%2525B8%2525B0%2525201%2525EC%2525A3%2525BC%2525EA%2525B8%2525B0%252520LTP%255D%255B%25EC%25A0%259C1%25EC%25A3%25BC%25EA%25B8%25B0%2520LTP%2520%25EA%25B2%2580%25ED%2586%25A0%255D%255D%5D%5B{4/4}%20%EC%A0%9C1%EC%A3%BC%EA%B8%B0%20LTP%20%EA%B2%80%ED%86%A0%5D%5D][유선상으로 메일관련 요청사항 독촉 {4/4} 제1주기 LTP 검토]]
 - [X] 유선상으로 답변 받음 :: [[file:DIARY.org::*%EC%8B%A0%EC%9B%94%EC%84%B12%ED%98%B8%EA%B8%B0%20LTP%20%EA%B4%80%EB%A0%A8%20%EC%A7%88%EC%9D%98%20%ED%95%B4%EC%86%8C][신월성2호기 LTP 관련 질의 해소]]
+  + 초음파탐상 절차서 및 현황표 정리 필요.
+  + 검사불가부위 없음
+- [ ] 비파괴탐상절차서 제출 요구 + 검사부위현황표 + E/C 분야 관련 질의 제출
      
      
 ** DONE [#B] [100%] [[E:\WorkShop\2015\150421%20%EC%8B%A0%EC%9B%94%EC%84%B12%ED%98%B8%EA%B8%B0%20%EA%B0%84%EC%9D%B4%EC%A0%95%EB%B9%84%EA%B8%B0%EA%B0%84%20%EA%B2%80%EC%82%AC%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EA%B2%80%EC%82%AC%EB%B0%A9%EC%95%88][간이정비 검사계획 및 검사방안 수립]]             :건설원전:3발:
@@ -247,30 +250,4 @@ SCHEDULED: <2015-05-18 월>
 **** TODO 질소 패널 내진 설계 ????
 
 **** TODO [#A] 담당자는 누구?
-
-
-* 신월성1호기 관련           
-:PROPERTIES: 
-:CATEGORY: 신월성1
-:SITE:     월성
-:STATUS:   가동원전
-:END:      
-
-** [#C] 신월성1호기 정기검사                                          :정기검사:
-SCHEDULED: <2015-05-11 월>--<2015-05-15 금>
-:PROPERTIES: 
- :CATEGORY: 월성3발
- :SITE:     월성
- :STATUS:   가동원전
- :NAME:     신월성1 정기검사
- :FROM:     [2015-05-03 일]
- :TO:       
- :EFFORT:   
- :WORKWITH: [[bbdb:정래영]] [[bbdb:조호현]]
- :WITH:     [[bbdb:김규형]]
- :AT:       
- :TYPE:     
- :KEYWORD:  정기검사 경수로형
- :CONTENT:  
- :END:      
 
